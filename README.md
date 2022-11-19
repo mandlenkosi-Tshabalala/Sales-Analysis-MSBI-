@@ -3,6 +3,7 @@
 An SSIS, SSAS and SSRS sales analysis project for a chain of retail stores. Given a dataset in the form of excel files.
 
 Sales:                                                                                          
+[Sales1.xlsx](https://github.com/mandlenkosi-Tshabalala/Sales-Analysis-MSBI-/files/10045699/Sales1.xlsx)
 
 ![Sales1](https://user-images.githubusercontent.com/17761176/202824490-fd095581-363f-4357-a4b4-41241c376b50.png)
 
