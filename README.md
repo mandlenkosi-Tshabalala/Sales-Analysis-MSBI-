@@ -1,6 +1,18 @@
 # Sales-Analysis-MSBI-
 
-An SSIS, SSAS and SSRS sales analysis project for a chain of retail stores. Given a dataset in the form of excel files.
+An SSIS, SSAS and SSRS sales analysis project for a chain of retail stores.
+
+Objective:
+
+-Create a Report to show number of sales per product
+
+-Analyze the number of sales per country
+
+-Show the number of sales by product category
+
+
+
+Given a dataset in the form of excel files.
 
 Sales:                                                                                          
 [Sales1.xlsx](https://github.com/mandlenkosi-Tshabalala/Sales-Analysis-MSBI-/files/10045699/Sales1.xlsx)
@@ -29,13 +41,7 @@ Geographical Data:
 [Geography.xlsx](https://github.com/mandlenkosi-Tshabalala/Sales-Analysis-MSBI-/files/10045717/Geography.xlsx)
 
 
-Objective:
 
--Create a Report to show number of sales per product
-
--Analyze the number of sales per country
-
--Show the number of sales by product category
 
 
 
